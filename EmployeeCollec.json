@@ -102,7 +102,7 @@
 				],
 				"scripts":{
 					"api-tests-production": "newman run Crud Operations.postman_collection.json"
-				}
+				},
 				"body": {
 					"mode": "raw",
 					"raw": "{\r\n  \"id\": 2,\r\n  \"name\":\"Laxman\",\r\n  \"lastname\":\"Tamtam\"\r\n}",
