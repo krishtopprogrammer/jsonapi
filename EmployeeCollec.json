@@ -46,7 +46,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "  {\r\n    \"id\": 4,\r\n    \"name\": \"Madhu\",\r\n    \"lastname\": \"Tamtam\"\r\n  } ",
+					"raw": "  {\r\n    \"name\": \"Madhu\",\r\n    \"lastname\": \"Tamtam\"\r\n  } ",
 					"options": {
 						"raw": {
 							"language": "json"
